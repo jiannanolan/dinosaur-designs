@@ -45,3 +45,7 @@ a:hover {
   color: #b42885;
   text-decoration: underline;
 }
+
+.iguan, .stego {
+  font-size: .5rem;
+}
