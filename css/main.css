@@ -44,13 +44,3 @@ a:hover {
   color: #b42885;
   text-decoration: underline;
 }
-
-h2 {
-  color: #5d8432;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-nav ol li {
-  font-weight: bold;
-}
