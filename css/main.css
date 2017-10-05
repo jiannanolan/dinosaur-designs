@@ -8,7 +8,7 @@ h1 h2 {
   font-family: "Patua One", cursive;
   color: #5d8432;
   text-transform: uppercase;
-  text-align: center;
+  font-weight: bold;
 }
 
 img {
@@ -49,4 +49,8 @@ h2 {
   color: #5d8432;
   text-transform: uppercase;
   text-align: center;
+}
+
+nav ol li {
+  font-weight: bold;
 }
