@@ -26,6 +26,7 @@ figcaption {
 
 ol {
   list-style-type: none;
+  font-weight: bold;
 }
 
 nav {
