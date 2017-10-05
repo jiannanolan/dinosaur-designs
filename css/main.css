@@ -1,0 +1,51 @@
+Dino Designs:
+
+html {
+  background-color: #f2f1ed;
+  font: normal 1rem/1.5 Georgia, serif;
+}
+
+h1 h2 {
+  font-weight: normal;
+  font-family: "Patua One", cursive;
+  color: #5d8432;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+figure {
+  width: 100%;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 1rem;
+  font-style: italic;
+  text-align: center;
+}
+
+ol {
+  list-style-type: none;
+}
+
+nav {
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #793284;
+}
+
+a {
+  color: #793284;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b42885;
+  text-decoration: underline;
+}
+
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+  text-align: center;
+}
