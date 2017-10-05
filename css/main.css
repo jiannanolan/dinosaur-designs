@@ -3,7 +3,7 @@ html {
   font: normal 1rem/1.5 Georgia, serif;
 }
 
-h1 h2 {
+h1, h2 {
   font-weight: bold;
   font-family: "Patua One", cursive;
   color: #5d8432;
@@ -38,6 +38,7 @@ nav {
 a {
   color: #793284;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
